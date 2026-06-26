@@ -1,0 +1,9 @@
+{
+  "auto_model_global": "agnes-2.0-flash",
+  "auto_key_global": "IB9ETTFZflwbL2ggBSUVGwM3GgVkfnEdJh0jLg0IHT0xHTI+Cm8vPUoaVH15dRIsMEVb",
+  "auto_baseurl_global": "https://apihub.agnes-ai.com/v1/chat/completions",
+
+  "auto_model_cn": "agnes-2.0-flash",
+  "auto_key_cn": "IB9ETTFZflwbL2ggBSUVGwM3GgVkfnEdJh0jLg0IHT0xHTI+Cm8vPUoaVH15dRIsMEVb",
+  "auto_baseurl_cn": "https://apihub.agnes-ai.com/v1/chat/completions"
+}
